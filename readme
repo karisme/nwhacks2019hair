@@ -1,1 +1,4 @@
-All
+This is an iOS app which analyses the users face using Machine Learning to suggest the best possible haircut.
+
+We used Face API provided by Cognitive Services of Microsoft Azure to analyse the User's face. We trained on Chicago Face Database to analyse the person face shape and according assign the best haircut.
+The Front End was done on Swift and we used CoreML to acces Azure.
